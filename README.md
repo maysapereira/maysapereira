@@ -1,4 +1,6 @@
-✨ Olá, eu sou a Maysa Pereira, tenho 22 anos, carioca
+✨ Olá, eu sou a Maysa Pereira
+✨ 22 anos
+✨ Carioca
 
 💛 Atualmente estou estudando desenvolvimento web full-stack pela Resilia. 
 
