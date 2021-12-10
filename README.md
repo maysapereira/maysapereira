@@ -1,10 +1,13 @@
-✨ Olá, eu sou a Maysa Pereira
-✨ 22 anos
+✨ Olá, eu sou a Maysa Pereira <br>
+✨ 22 anos <br>
+✨ Pronmes: ela/dela <br>
 ✨ Carioca
 
 💛 Atualmente estou estudando desenvolvimento web full-stack pela Resilia. 
 
-<!---
-maysapereira/maysapereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <a href="https://github.com/maysapereira">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maysapereira&show_icons=true&theme=synthwave&include_all_comits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maysapereira&layout=compact&langs_count=16&theme=synthwave"/>
+   
+
