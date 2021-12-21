@@ -1,8 +1,8 @@
 ## Olá, eu sou a _Maysa Pereira_
   
 💜 22 anos <br>
-💜 Pronomes: ela/dela <br>
 💜 Carioca<br>
+💜 Pronomes: ela/dela <br>
 💜 Atualmente estou estudando desenvolvimento web full-stack pela Resilia. 
 
 <div>
