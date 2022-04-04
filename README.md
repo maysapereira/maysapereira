@@ -36,5 +36,5 @@
     
 
   </div>
-  
-  
+ 
+ ![Snake animation](https://github.com/maysapereira/maysapereira/blob/output/github-contribution-grid-snake.svg)
