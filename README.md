@@ -3,7 +3,7 @@
 💜 22 anos <br>
 💜 Carioca<br>
 💜 Pronomes: ela/dela <br>
-💜 Desenvolvedora Back-end, formada em Desenvolvimento Web Full-Stack na Resilia Educação
+💜 Desenvolvedora Back-end na **[Pagar.me](https://github.com/pagarme)**, do grupo **[Stone Co.](https://stone.co/)**, formada em Desenvolvimento Web Full-Stack na **[Resilia Educação](https://www.resilia.com.br/)**
 
 <div>
   <a href="https://github.com/maysapereira">
