@@ -16,6 +16,7 @@
   <br>
  
  <img align="center" alt="May-Linux" src="https://img.shields.io/badge/Linux-20232A?style=for-the-badge&logo=linux&logoColor=FCC624">
+   <img align="center" alt="May-Windows" src="https://img.shields.io/badge/Windows-20232A?style=for-the-badge&logo=windows&logoColor=white">
  <img align="center" alt="May-Git" src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=E94E31">
 
   <br>
