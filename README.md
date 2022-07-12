@@ -1,9 +1,10 @@
-## Olá, eu sou a _Maysa Pereira_ 👩🏻‍💻
-  
-💜 22 anos <br>
-💜 Carioca<br>
-💜 Pronomes: ela/dela <br>
-💜 Desenvolvedora Back-end na **[Pagar.me](https://github.com/pagarme)**, do grupo **[Stone Co.](https://stone.co/)**, formada em Desenvolvimento Web Full-Stack na **[Resilia Educação](https://www.resilia.com.br/)**.
+#### 👩🏻‍💻 Eae, tudo certo? Eu sou a _Maysa Pereira_, Desenvolvedora Back-end na **[Pagar.me](https://github.com/pagarme)**, do grupo **[Stone Co.](https://stone.co/)**, formada em Desenvolvimento Web Full-Stack na **[Resilia Educação](https://www.resilia.com.br/)**. 
+
+<br>
+
+✨ Gosto de tecnologia desde criança, mas comecei a estudar pra valer na pandemia. No final de 2021, comecei o bootcamp da **Resilia**, que durou 6 intensos meses. Lá aprendi a programar em Javascript, mas hoje trabalho com GO.
+
+<br>
 
 <div>
   <a href="https://github.com/maysapereira">
@@ -11,7 +12,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maysapereira&layout=compact&langs_count=16&theme=radical"/>
 </div>
   
- <h1 align="center">LINGUAGENS E FERRAMENTAS</h1>
+ <h2 align="left"> 💻 Linguagens e ferramentas que utilizo/utilizei </h2>
   
   <br>
  
@@ -58,14 +59,28 @@
   <br>
   <br>
   
- <h3 align="left">✨ CONTATO</h3>
+  <br>
+ 
+ ![Snake animation](https://github.com/maysapereira/maysapereira/blob/output/github-contribution-grid-snake.svg)
+ 
+<br>
+
+<h2 align="left">✨👩🏻 Um pouco mais sobre mim </h2>
+
+<br>
+
+<p>✨ Tenho 22 anos, sou vegana, gamer, fã de terror e mistério, fã do Studio Ghibli e Sanrio, musicalmente eclética e nascida no lugar mais lindo do mundo, o Rio de janeiro, claro.<p>
+
+<br>
+
+<p>🎵 <strong> ÚLTIMA MÚSICA QUE OUVI: <strong><p>
+
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21a42eo33txbcsxd2n6i46omy&cover_image=true&theme=default&bar_color=f9c8ec&bar_color_cover=true)
+
+<h2 align="left">✨ Quer falar comigo? Me encontre por aqui: </h2>
   
   <br>
 
 <a href="https://www.linkedin.com/in/maysa-pereira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:maysalvespereira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>    
-  </div>
-  
-  <br>
- 
- ![Snake animation](https://github.com/maysapereira/maysapereira/blob/output/github-contribution-grid-snake.svg)
+<a href=""><img src="https://img.shields.io/badge/Discord[661]-5865f2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+<a href="mailto:maysalvespereira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
