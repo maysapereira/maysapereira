@@ -33,8 +33,6 @@
  <img align="center" alt="May-NPM" src="https://img.shields.io/badge/NPM-20232A?style=for-the-badge&logo=npm&logoColor=CB3837" />
  <img align="center" alt="May-Jest" src="https://img.shields.io/badge/Jest-20232A?style=for-the-badge&logo=mongodb&logoColor=C21325">
  <img align="center" alt="May-Heroku" src="https://img.shields.io/badge/heroku-20232A?style=for-the-badge&logo=heroku&logoColor=430098">
-  <br>
-  <br>
  <img align="center" alt="May-Insomnia" src="https://img.shields.io/badge/Insomnia-20232A?style=for-the-badge&logo=insomnia&logoColor=5445b4" />
  <img align="center" alt="May-Sequelize" src="https://img.shields.io/badge/Sequelize-20232A?style=for-the-badge&logo=sequelize&logoColor=2c3864" />
  <img align="center" alt="May-MySQL" src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=1d4a65" />
