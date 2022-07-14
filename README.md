@@ -71,10 +71,6 @@
 
 <br>
 
-<p>🎵 <strong> O QUE ESTOU OUVINDO: <strong><p>
-
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21a42eo33txbcsxd2n6i46omy&cover_image=true&theme=default&bar_color=f9c8ec&bar_color_cover=true)
-
 <h2 align="left">✨ Quer falar comigo? Me encontre por aqui: </h2>
   
   <br>
