@@ -4,7 +4,7 @@
 
 <br>
 
-✨ Gosto de tecnologia desde criança, mas comecei a estudar pra valer na pandemia. No final de 2021, comecei o bootcamp da **Resilia**, que durou 6 intensos meses. Lá aprendi a programar em Javascript, mas hoje trabalho com GO.
+✨ Gosto de tecnologia desde criança, mas comecei a estudar pra valer na pandemia. No final de 2021, comecei o bootcamp da **Resilia**, que durou 6 intensos meses. Lá aprendi a programar em **Javascript**, mas hoje trabalho com **GO**.
 
 <br>
 
