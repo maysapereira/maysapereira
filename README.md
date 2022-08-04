@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFC0CB&lines=Seja+bem-vindo(a)+ao+meu+perfil!+%F0%9F%91%8B)](https://git.io/typing-svg)
+
 #### 👩🏻‍💻 Eae, tudo certo? Eu sou a _Maysa Pereira_, Desenvolvedora Back-end na **[Pagar.me](https://github.com/pagarme)**, do grupo **[Stone Co.](https://stone.co/)**, formada em Desenvolvimento Web Full-Stack na **[Resilia Educação](https://www.resilia.com.br/)**. 
 
 <br>
