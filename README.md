@@ -75,10 +75,10 @@
 
 <br>
 
+
 <h2 align="left">✨ Quer falar comigo? Me encontre por aqui: </h2>
   
   <br>
 
 <a href="https://www.linkedin.com/in/maysa-pereira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href=""><img src="https://img.shields.io/badge/Discord[661]-5865f2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-<a href="mailto:maysalvespereira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:maysalvespereira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> ![](https://dcbadge.vercel.app/api/shield/901494336196317194)
