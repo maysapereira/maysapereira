@@ -71,7 +71,7 @@
 
 <br>
 
-<p>✨ Tenho 23 anos, sou vegana, gamer, fã de terror e mistério, fã do Studio Ghibli e Sanrio, musicalmente eclética e nascida no lugar mais lindo do mundo, o Rio de janeiro, claro.<p>
+<p>✨ Tenho 24 anos, sou vegana, gamer, fã de terror e mistério, fã do Studio Ghibli e Sanrio, musicalmente eclética e nascida no lugar mais lindo do mundo, o Rio de janeiro, claro.<p>
 
 <br>
 
